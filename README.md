@@ -1,2 +1,2 @@
 # EDA-bangalore-restaurants
-EDA-bangalore-restaurants
+In a basic exploratory data analysis project on Bengaluru restaurants, data was gathered and analyzed to uncover insights. Key aspects like cuisine diversity, price ranges, and location distribution were explored. The project aimed to provide a foundational understanding of the restaurant landscape in Bengaluru for potential investors or food enthusiasts.The project marks my initial foray into the world of data analysis, offering an introductory exploration of Bengaluru's dining landscape.
